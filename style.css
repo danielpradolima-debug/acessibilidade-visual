@@ -101,19 +101,3 @@ footer{
 .alto-contraste footer{
     background:black;
 }
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  padding: 20px;
-  font-family: Arial;
-  display: flex;
-  justify-content: center;
-}
-
-.container {
-  max-width: 800px;
-  width: 100%;
-}
