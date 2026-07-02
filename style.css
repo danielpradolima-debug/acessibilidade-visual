@@ -1,0 +1,23 @@
+body{
+    margin:0;
+    font-family:Arial, sans-serif;
+    background:#f4f4f4;
+    color:#222;
+}
+
+header{
+    background:#004080;
+    color:white;
+    padding:30px;
+    text-align:center;
+}
+
+main{
+    max-width:900px;
+    margin:auto;
+    padding:40px;
+}
+
+h2{
+    color:#004080;
+}
